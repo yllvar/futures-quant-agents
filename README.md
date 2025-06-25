@@ -81,7 +81,7 @@ flowchart TD
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/your-username/futures-quant-agents.git
+git clone https://github.com/yllvar/futures-quant-agents.git
 
 # Install dependencies
 pnpm install
@@ -116,8 +116,4 @@ const [apiSecret, setApiSecret] = useState("");
 | Market Data Service | `lib/historical-data-service.ts` | Data fetching |
 
 ## Contributing
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open pull request
+1. Send like the repo means a lot 
